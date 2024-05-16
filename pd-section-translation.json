@@ -1,7 +1,34 @@
-en,fr,es,ar
-"Location-Based Store discovery","Découverte de magasin basée sur la localisation","Descubrimiento de tiendas basado en la ubicación","اكتشاف المتجر على أساس الموقع"
-"Multivendor Marketplace Support","Prise en charge du marché multifournisseur","Soporte del mercado de múltiples proveedores","دعم السوق متعدد البائعين"
-"Product Options & Add-Ons with AR Product Experience","Options de produit et modules complémentaires avec AR Product Experience","Opciones de producto y complementos con experiencia de producto AR","خيارات المنتج والوظائف الإضافية مع تجربة منتج الواقع المعزز"
-"Delivery & Pickup with Coupon Support","Livraison et ramassage avec prise en charge des coupons","Entrega y recogida con soporte de cupones","التسليم والاستلام مع دعم القسيمة"
-"Secure Online Payment Options including Stripe, PayPal & more","Options de paiement en ligne sécurisées, notamment Stripe, PayPal et plus","Opciones de pago seguro en línea que incluyen Stripe, PayPal y más","خيارات الدفع الآمنة عبر الإنترنت بما في ذلك Stripe وPayPal والمزيد"
-"Live Order Tracking","Suivi des commandes en direct","Seguimiento de pedidos en vivo","تتبع الطلب المباشر"
+{
+  "en": {
+    "Location-Based Store discovery": "Location-Based Store discovery",
+    "Multivendor Marketplace Support": "Multivendor Marketplace Support",
+    "Product Options & Add-Ons with AR Product Experience": "Product Options & Add-Ons with AR Product Experience",
+    "Delivery & Pickup with Coupon Support": "Delivery & Pickup with Coupon Support",
+    "Secure Online Payment Options including Stripe, PayPal & more": "Secure Online Payment Options including Stripe, PayPal & more",
+    "Live Order Tracking": "Live Order Tracking"
+  },
+  "fr": {
+    "Location-Based Store discovery": "Découverte de magasin basée sur la localisation",
+    "Multivendor Marketplace Support": "Prise en charge du marché multifournisseur",
+    "Product Options & Add-Ons with AR Product Experience": "Options de produit et modules complémentaires avec AR Product Experience",
+    "Delivery & Pickup with Coupon Support": "Livraison et ramassage avec prise en charge des coupons",
+    "Secure Online Payment Options including Stripe, PayPal & more": "Options de paiement en ligne sécurisées, notamment Stripe, PayPal et plus",
+    "Live Order Tracking": "Suivi des commandes en direct"
+  },
+  "es": {
+    "Location-Based Store discovery": "Descubrimiento de tiendas basado en la ubicación",
+    "Multivendor Marketplace Support": "Soporte del mercado de múltiples proveedores",
+    "Product Options & Add-Ons with AR Product Experience": "Opciones de producto y complementos con experiencia de producto AR",
+    "Delivery & Pickup with Coupon Support": "Entrega y recogida con soporte de cupones",
+    "Secure Online Payment Options including Stripe, PayPal & more": "Opciones de pago seguro en línea que incluyen Stripe, PayPal y más",
+    "Live Order Tracking": "Seguimiento de pedidos en vivo"
+  },
+  "ar": {
+    "Location-Based Store discovery": "اكتشاف المتجر على أساس الموقع",
+    "Multivendor Marketplace Support": "دعم السوق متعدد البائعين",
+    "Product Options & Add-Ons with AR Product Experience": "خيارات المنتج والوظائف الإضافية مع تجربة منتج الواقع المعزز",
+    "Delivery & Pickup with Coupon Support": "التسليم والاستلام مع دعم القسيمة",
+    "Secure Online Payment Options including Stripe, PayPal & more": "خيارات الدفع الآمنة عبر الإنترنت بما في ذلك Stripe وPayPal والمزيد",
+    "Live Order Tracking": "تتبع الطلب المباشر"
+  }
+}
